@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Wahyu Dwi Prasetio**.
 
-Saya seorang **Mahasiswa** di [Universitas Bengkulu](https://www.pak.unib.ac.id/).
+Saya seorang **Mahasiswa** di [Universitas Bengkulu](https://pak.unib.ac.id/).
 
 <!--
 **wdprsto/wdprsto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
