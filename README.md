@@ -1,4 +1,4 @@
-### Halo semua! 👋
+### Halo semuanya! 👋
 
 Perkenalkan nama saya **Wahyu Dwi Prasetio**.
 
