@@ -1,8 +1,8 @@
 ### Halo semuanya! 👋
 
-Perkenalkan nama saya **Wahyu Dwi Prasetio**.
+Kenalin, aku **Wahyu Dwi Prasetio**.
 
-Saya seorang **Mahasiswa** di [Universitas Bengkulu](https://pak.unib.ac.id/).
+Saat ini aku lagi berusaha menggapai gelar sarjana di [Universitas Bengkulu](https://pak.unib.ac.id/)
 
 <!--
 **wdprsto/wdprsto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
