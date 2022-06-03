@@ -2,7 +2,7 @@
 
 Kenalin, aku **Wahyu Dwi Prasetio**.
 
-Saat ini aku lagi berusaha menggapai gelar sarjana di [Universitas Bengkulu](https://pak.unib.ac.id/)
+Saat ini aku lagi berusaha ngeraih gelar sarjana di [Universitas Bengkulu](https://pak.unib.ac.id/)
 
 <!--
 **wdprsto/wdprsto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
