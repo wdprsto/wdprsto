@@ -1,8 +1,8 @@
 ## Welcome to My Profile  
-Hello, my name is **Wahyu Dwi Prasetio** you can call me ***wahyu***. I'm final year student at University of Bengkulu, major in Informatics. You can add me on LinkedIn. [link](https://www.linkedin.com/in/wahyudwiprasetio/)
+Hello, my name is **Wahyu Dwi Prasetio** you can call me ***wahyu***. I'm final year student at University of Bengkulu, major in Informatics. 
 
 I am (still) trying to learn a lot of new things!
-- [Handwriting Character Recognition using DCNN](https://github.com/wdprsto/Calistung_processing)
+- [Handwritten Character Recognition using DCNN](https://github.com/wdprsto/Calistung_processing)
 - [Smartphone Buying Support System using Fuzzy Tahani](https://github.com/wdprsto/Fuzzy-Tahani-Pendukung-Pemilihan-Smartphone)
 - [Skin Cancer Classification using CNN and Various Image Processing Method](https://github.com/wdprsto/Komparasi-Hasil-Klasifikasi-Kanker-Kulit)
 
