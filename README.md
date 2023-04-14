@@ -4,6 +4,7 @@ Hello, my name is **Wahyu Dwi Prasetio** you can call me ***wahyu***. I'm final 
 I am (still) trying to learn a lot of new things!
 - [Handwritten Character Recognition using DCNN](https://github.com/wdprsto/Calistung_processing)
 - [Smartphone Buying Support System using Fuzzy Tahani](https://github.com/wdprsto/Fuzzy-Tahani-Pendukung-Pemilihan-Smartphone)
+- [Skin Cancer Classification using CNN and Various Image Processing Method](https://github.com/wdprsto/Komparasi-Hasil-Klasifikasi-Kanker-Kulit)
 
 <p align="left">
 <a href="https://github.com/wdprsto">
