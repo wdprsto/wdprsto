@@ -47,9 +47,6 @@ These are the technologies that I am currently familiar with and have used befor
 </a>
 </p>
 
-<br />
-<br />
-<br />
 
 ##
 2025 &#169; Wahyu Dwi Prasetio
