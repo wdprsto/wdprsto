@@ -7,15 +7,18 @@
 ## ⚡Technologies
 These are the technologies that I am currently familiar with and have used before. This non-exhaustive list will be updated over time.
 
-### Data Analytics
+### Data Scraping & Analytics
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://github.com/wdprsto?tab=repositories)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-black.svg?style=flat&logo=Looker)
-![Redash](https://img.shields.io/badge/Redash-black.svg?style=flat&logo=redash)
-![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-black?logo=tableau)
+[![Selenium](https://custom-icon-badges.demolab.com/badge/Selenium-black?logo=Selenium)]()
+[![Streamlit](https://custom-icon-badges.demolab.com/badge/Streamlit-black?logo=Streamlit)]()
+[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-black.svg?style=flat&logo=Looker)]()
+[![Redash](https://img.shields.io/badge/Redash-black.svg?style=flat&logo=redash)]()
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-black?logo=tableau)]()
 
 ### Machine Learning
 [![TensorFlow](https://img.shields.io/badge/-Tensorflow-black?style=flat&logo=tensorflow)](https://github.com/wdprsto?tab=repositories)
-![Pytorch](https://img.shields.io/badge/Pytorch-black.svg?style=flat&logo=Pytorch)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=OpenCV)]()
+[![Pytorch](https://img.shields.io/badge/Pytorch-black.svg?style=flat&logo=Pytorch)]()
 
 ### Operating System
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-black?logo=windows11&logoColor=0078D6)]()
@@ -25,6 +28,7 @@ These are the technologies that I am currently familiar with and have used befor
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=%23777BB4)](https://github.com/wdprsto?tab=repositories)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat&logo=CodeIgniter&logoColor=%23FF2D20)](https://github.com/wdprsto?tab=repositories)
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)](https://github.com/wdprsto?tab=repositories)
+[![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery)](https://github.com/wdprsto?tab=repositories)
 
 ### Database
 [![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=flat&logo=mysql)](https://github.com/wdprsto?tab=repositories)
